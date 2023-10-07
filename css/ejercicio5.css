@@ -1,0 +1,38 @@
+html {
+  overflow-x: hidden;
+}
+
+body {
+  background-image: url("/images/ejercicio5.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#pa {
+  font-size: 200%;
+  font-weight: bolder;
+  margin-left: 15%;
+}
+
+#eua {
+  margin-left: 15%;
+  font-size: 175%;
+}
+
+#loren2 {
+  padding-right: 5%;
+}
+
+#carac1,
+#carac2,
+#carac3 {
+  font-size: 160%;
+}
+
+#container4 {
+  text-align: center;
+}
+
+#ultpar {
+  color: white;
+}
