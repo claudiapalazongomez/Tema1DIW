@@ -37,4 +37,19 @@ html {
 .subtitulos .btn {
   white-space: nowrap; /* Evita el salto de línea */
   font-size: 14px;
+  width: 100px;
+}
+
+.seccion {
+  justify-content: space-between;
+}
+
+.seccion h3 {
+  position: relative;
+  margin-top: 230px;
+}
+
+.seccion img {
+  overflow: hidden;
+  clip-path: inset(0 0 18% 0);
 }
