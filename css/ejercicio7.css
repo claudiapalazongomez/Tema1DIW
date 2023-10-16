@@ -42,12 +42,21 @@ html {
 
 .seccion {
   justify-content: space-between;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .seccion h3 {
-  position: relative;
   margin-top: 230px;
 }
+
+/*.texto1,
+.texto3 {
+  margin-left: 140px;
+}
+.texto2 {
+  margin-right: 140px;
+}*/
 
 .seccion img {
   overflow: hidden;
